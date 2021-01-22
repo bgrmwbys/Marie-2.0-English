@@ -27,7 +27,7 @@ HELP_STRINGS = """
 הבוט פרטי
 """
 
-DONATE_STRING = ""לא מקבלים תרומות כרגע"""
+DONATE_STRING = """לא מקבלים תרומות כרגע"""
 
 IMPORTED = {}
 MIGRATEABLE = []
