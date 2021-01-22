@@ -17,7 +17,9 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
-PM_START_TEXT ="""היי {} ברוך הבא ל {} ! 
+PM_START_TEXT = """היי {} ברוך הבא ל{} ! 
+הבוט עובד רק בקבוצה @hlepTherock אז אין לך מה לחפש כאן... 
+
 הבוט רץ ע"י  [Yishaicohen](tg://user?id={})"""
 
 HELP_STRINGS = """
